@@ -55,7 +55,7 @@ Youtube Walkthrough of the full game: https://www.youtube.com/watch?v=ylTclQSRTe
 
 ## Screenshots
 
-![Gameplay Screenshot](./gameplay.png)
+![Gameplay Screenshot](./uiu_platformer_game.png)
 
 ## Contributing
 
