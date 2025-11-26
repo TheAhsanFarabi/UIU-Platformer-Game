@@ -49,6 +49,8 @@ cd UIU-Platformer-Game
 
 Players take on the role of a university fresher navigating through various levels inspired by campus life. Each stage presents new challenges, puzzles, and achievements to unlock, providing an engaging and educational experience.
 
+Youtube Walkthrough of the full game: https://www.youtube.com/watch?v=ylTclQSRTeg
+
 ---
 
 ## Screenshots
